@@ -4,42 +4,11 @@ Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferra
 
 ## Instalação
 
-Para instalar o Tool-X no seu dispositivo Termux, siga estas etapas:
+Para instalar o Fr-Ts no seu dispositivo Termux, siga estas etapas:
 
-1. Clone o repositório Tool-X do GitHub:
-
-   ```bash
-   pkg install git
-   git clone https://github.com/Rajkumrdusad/Tool-X.git
-   ```
-
-2. Navegue até o diretório Tool-X:
-
-   ```bash
-   cd Tool-X
-   ```
-
-3. Dê permissão de execução ao script `install.aex`:
-
-   ```bash
-   chmod +x install.aex
-   ```
-
-4. Execute o script para iniciar a instalação:
-
-   ```bash
-   sh install.aex
-   ```
-
-5. Siga as instruções na tela para instalar as ferramentas desejadas.
-
-## Uso
-
-Após a instalação, você pode iniciar o Tool-X digitando `toolx` no seu terminal Termux. Isso abrirá o menu principal do Tool-X, onde você pode selecionar e instalar diferentes ferramentas disponíveis.
-
-## Ferramentas Incluídas
-
-Tool-X inclui uma ampla variedade de ferramentas populares de pentest, como Nmap, Metasploit Framework, Hydra, SQLmap, e muitas outras. Consulte o menu do Tool-X para ver a lista completa de ferramentas disponíveis.
+git clone https://github.com/Rfpds/Persux2
+cd Persux2`
+python Persux2.py
 
 ## Contribuição
 
