@@ -20,13 +20,12 @@ pkg install -y tsu
 # Dependências
 pkg install -y python
 
-# Clonar e instalar Tool-X do GitHub
-echo "Clonando e instalando Tool-X..."
+# Clonar e instalar Persux2 do GitHub
+echo "Clonando e instalando Persux2..."
 pkg install -y git
-git clone https://github.com/Rajkumrdusad/Tool-X.git
-cd Tool-X
-chmod +x install.aex
-sh install.aex
+git clone https://github.com/Rfpds/Persux2
+cd Persux2`
+python Persux2.py
 
 # Desenvolvido por Rfstudio
 
