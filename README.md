@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de um arquivo `README.md` para descrever a ferramenta "Tool-X". Este exemplo fornece uma estrutura básica que você pode expandir com mais detalhes e informações específicas sobre a ferramenta.
-
----
-
 # Tool-X
 
 Tool-X é uma ferramenta de instalação automatizada para uma variedade de ferramentas de pentest e hacking ético disponíveis para Termux. Este script facilita a instalação de várias ferramentas importantes de segurança cibernética diretamente no seu dispositivo Android sem a necessidade de acesso root.
