@@ -6,22 +6,19 @@ Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferra
 
 Para instalar o Fr-Ts no seu dispositivo Termux, siga estas etapas:
 
+pkg install -y git
 git clone https://github.com/Rfpds/Frts_tts
-cd `
-python Persux2.py
+cd Frts_tts`
+chmod +x install_tools.sh
+./install_tools.sh
+
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositório do Tool-X no GitHub.
-
-## Créditos
-
-Tool-X é mantido por Rajkumar Dusad. Visite o [repositório do Tool-X](https://github.com/Rajkumrdusad/Tool-X) para mais informações e atualizações.
+Contribuições são bem-vindas! Se você encontrar bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositório do Fr-Ts no GitHub.
 
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
-
-Este exemplo de `README.md` fornece uma visão geral da ferramenta Tool-X, incluindo instruções básicas de instalação, uso, lista de ferramentas incluídas, informações de contribuição, créditos e licenciamento. Você pode personalizar e expandir este arquivo conforme necessário para se adequar às especificidades da ferramenta que você está documentando.
