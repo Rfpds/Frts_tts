@@ -28,4 +28,6 @@ cd Tool-X
 chmod +x install.aex
 sh install.aex
 
+# Desenvolvido por Rfstudio
+
 echo "Todas as ferramentas foram instaladas com sucesso."
