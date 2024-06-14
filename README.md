@@ -12,7 +12,7 @@ pkg install -y git
 git clone https://github.com/Rfpds/adm_1.0
 ```
 ```bash
-cd Frts_tts
+cd adm_1.0
 ```
 ```bash
 chmod +x install_tools.sh
