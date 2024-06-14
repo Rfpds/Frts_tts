@@ -30,8 +30,9 @@ adm1.py
 
 Contribuições são bem-vindas! Se você encontrar bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositório do adm_1.0 no GitHub.
 
-#desenvolvido por:
-RfStudio
+## desenvolvidor
+
+RFPDS
 
 ## Licença
 
