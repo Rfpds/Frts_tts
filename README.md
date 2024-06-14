@@ -4,7 +4,7 @@ Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferra
 
 ## Instalação
 
-Para instalar o Fr-Ts no seu dispositivo Termux, siga estas etapas:
+Para instalar o adm_1.0 no seu dispositivo Termux, siga estas etapas:
  ```bash
 pkg install -y git
 ```
@@ -28,7 +28,10 @@ adm1.py
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositório do Fr-Ts no GitHub.
+Contribuições são bem-vindas! Se você encontrar bugs ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositório do adm_1.0 no GitHub.
+
+#desenvolvido por:
+RfStudio
 
 ## Licença
 
