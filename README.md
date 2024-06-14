@@ -14,7 +14,11 @@ cd Frts_tts
 
 chmod +x install_tools.sh
 
+executar:
 ./install_tools.sh
+
+pode ser executado em python tbm:
+adm1.py
 
 
 ## Contribuição
