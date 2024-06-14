@@ -9,7 +9,7 @@ Para instalar o Fr-Ts no seu dispositivo Termux, siga estas etapas:
 pkg install -y git
 ```
 ```bash
-git clone https://github.com/Rfpds/Frts_tts
+git clone https://github.com/Rfpds/adm_1.0
 ```
 ```bash
 cd Frts_tts
