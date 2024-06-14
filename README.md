@@ -5,9 +5,9 @@ Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferra
 ## Instalação
 
 Para instalar o Fr-Ts no seu dispositivo Termux, siga estas etapas:
-
+ ```bash
 pkg install -y git
-
+```
 git clone https://github.com/Rfpds/Frts_tts
 
 cd Frts_tts
