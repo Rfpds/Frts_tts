@@ -11,6 +11,7 @@ pkg upgrade -y
  ```
  ```bash
 pkg install -y git
+pkg install python
 ```
 ```bash
 git clone https://github.com/Rfpds/adm_1.0
@@ -26,6 +27,7 @@ executar:
 ./install_tools.sh
 ```
 pode ser executado em python tbm:
+sugiro executar 👇
 ```bash
 python adm1.py
 ```
