@@ -6,6 +6,10 @@ Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferra
 
 Para instalar o adm_1.0 no seu dispositivo Termux, siga estas etapas:
  ```bash
+pkg update -y
+pkg upgrade -y
+ ```
+ ```bash
 pkg install -y git
 ```
 ```bash
