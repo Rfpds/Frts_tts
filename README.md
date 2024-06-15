@@ -1,6 +1,6 @@
-# Fr-Ts
+# adm
 
-Fr-Ts é uma ferramenta de instalação automatizada para uma variedade de ferramentas de pentest e hacking ético disponíveis para Termux. Este script facilita a instalação de várias ferramentas importantes de segurança cibernética diretamente no seu dispositivo Android sem a necessidade de acesso root.
+adm é uma ferramenta de instalação automatizada para uma variedade de ferramentas de pentest e hacking ético disponíveis para Termux. Este script facilita a instalação de várias ferramentas importantes de segurança cibernética diretamente no seu dispositivo Android sem a necessidade de acesso root.
 
 ## Instalação
 
