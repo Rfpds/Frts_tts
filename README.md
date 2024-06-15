@@ -27,7 +27,7 @@ executar:
 ```
 pode ser executado em python tbm:
 ```bash
-adm1.py
+python adm1.py
 ```
 
 ## Contribuição
