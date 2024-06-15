@@ -2,6 +2,9 @@
 
 adm é uma ferramenta de instalação automatizada para uma variedade de ferramentas de pentest e hacking ético disponíveis para Termux. Este script facilita a instalação de várias ferramentas importantes de segurança cibernética diretamente no seu dispositivo Android sem a necessidade de acesso root.
 
+##Aviso
+Instala esse instalador apenas se o dispositivo, tiver pelo menos 3gb disponível!
+
 ## Instalação
 
 Para instalar o adm_1.0 no seu dispositivo Termux, siga estas etapas:
@@ -27,7 +30,7 @@ executar:
 ./install_tools.sh
 ```
 pode ser executado em python tbm:
-sugiro executar 👇
+sugiro executar 👇 ferramentas atualizadas
 ```bash
 python adm1.py
 ```
