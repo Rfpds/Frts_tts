@@ -34,8 +34,7 @@ if __name__ == "__main__":
         "https://github.com/Rfpds/wifi-password-tester.git",
         "https://github.com/Rfpds/Sml",
         "https://github.com/Rfpds/wifi-bt-fc.git",
-        "https://github.com/Hackertrackersj/Tbomb",
-        "https://github.com/EXALAB/AnLinux-App"
+        "https://github.com/Hackertrackersj/Tbomb"
     ]
 
     apt_packages = [
