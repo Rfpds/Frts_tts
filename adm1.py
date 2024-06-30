@@ -97,8 +97,8 @@ if __name__ == "__main__":
         "burpsuite",
         "scapy",
         "sqlmap",
-        "tsu",
         "hash"
+
     ]
 
     update_termux()
